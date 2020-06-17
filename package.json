@@ -50,6 +50,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "handlebars": "^4.7.3"
+    "handlebars": "^4.7.3",
+    "minimist": "^1.2.5",
+    "websocket-extensions": "^0.1.4"
   }
 }
